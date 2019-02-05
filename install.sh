@@ -17,7 +17,7 @@ pkg install toilet
 sleep 2
 pkg install lolcat
 sleep 2
-gem lolcat
+gem install lolcat
 clear
 echo ""
 echo "INSTALLING FINISH please enter python2 BOTFB.py"
