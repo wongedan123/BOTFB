@@ -7,17 +7,19 @@ echo ""
 echo "Pleas wait :) ...."
 echo ""
 sleep 4
-pkg pip2 install mechanize
+pip2 install mechanize
 sleep 2
-pkg pip2 install requests
+pip2 install requests
 sleep 2
 pkg install python2
+sleep 2
+pkg install python
 sleep 2
 pkg install toilet
 sleep 2
 pkg install lolcat
 sleep 2
-pkg gem install lolcat
+gem install lolcat
 clear
 echo ""
 echo "INSTALLING FINISH please enter python2 BOTFB.py"
