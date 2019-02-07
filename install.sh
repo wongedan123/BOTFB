@@ -19,6 +19,8 @@ pkg install python
 sleep 2
 pkg install toilet
 sleep 2
+pkg install python3
+sleep 2
 pkg install lolcat
 sleep 2
 gem install lolcat
