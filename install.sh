@@ -11,6 +11,8 @@ pip2 install mechanize
 sleep 2
 pip2 install requests
 sleep 2
+pkg install figlet
+sleep 2
 pkg install python2
 sleep 2
 pkg install python
