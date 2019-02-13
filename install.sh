@@ -7,15 +7,15 @@ echo ""
 echo "Pleas wait :) ...."
 echo ""
 sleep 4
-pip2 install mechanize
-sleep 2
-pip2 install requests
-sleep 2
-pkg install figlet
+pkg install python
 sleep 2
 pkg install python2
 sleep 2
-pkg install python
+pkg install figlet
+sleep 2
+pip2 install mechanize
+sleep 2
+pip2 install requests
 sleep 2
 pkg install toilet
 sleep 2
